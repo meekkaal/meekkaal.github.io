@@ -1,0 +1,17 @@
+title: Michael Sloan
+email: mikesloan47@gmail.com
+description: Musings of a software test engineer & musician.
+
+twitter_username: meekkaal
+github_username:  meekkaal
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+
+compress_html:
+  blanklines: true
+
+
